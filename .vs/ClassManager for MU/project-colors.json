@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2206eb6d-1843-482a-a532-0fceef3b2a28": {
+      "ProjectGuid": "2206eb6d-1843-482a-a532-0fceef3b2a28",
+      "DisplayName": "ClassManager for MU",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "その他のファイル",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
