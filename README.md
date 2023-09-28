@@ -5,6 +5,9 @@
 「ClassManager」（略称：クラマナ）は、VB.NETで開発されたソフトウェアです。
 このソフトウェアは、コロナ渦中に毎日Zoomの授業を受ける自分や友人のために開発しました。
 
+Use!
+→[ダウンロードはこちらから](https://drive.google.com/file/d/1n_cR1zLqMDIHtWB4ywB86H4YZcaJUHl9/view?usp=sharing)
+
 ## 概要
 クラマナは、ZoomのIDとパスワードの入力をより簡単かつ迅速に行うためのソフトウェアです。
 このソフトを利用することで、クリックとCtrl+Vの2つのアクションのみで、Zoomミーティングに素早く参加することができます。
