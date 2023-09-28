@@ -31,5 +31,6 @@ Zoomキルタイマーなら、設定した数分後に自動的にZoomを落と
 ## 開発環境
 - VB.NET
 
-## お問い合わせ
-[お問い合わせ先の情報をここに追加してください。]
+## 連絡先
+Twitter: [にすみん（@Nispectre）](https://twitter.com/Nispectre)
+Instagram/Threads : [にすみん（@Nispectre）](https://www.instagram.com/nispectre/)
