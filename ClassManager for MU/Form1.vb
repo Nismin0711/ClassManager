@@ -125,12 +125,6 @@
         Clipboard.SetText(Form2.TextBox19.Text)
     End Sub
 
-    Private Sub Button13_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button13.Click
-        WebView21.CoreWebView2.Navigate("https://zoom.us/j/" + Form2.TextBox53.Text + "?")
-        Clipboard.Clear()
-        Clipboard.SetText(Form2.TextBox52.Text)
-    End Sub
-
     Private Sub Button14_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button14.Click
         WebView21.CoreWebView2.Navigate("https://zoom.us/j/" + Form2.TextBox50.Text + "?")
         Clipboard.Clear()
